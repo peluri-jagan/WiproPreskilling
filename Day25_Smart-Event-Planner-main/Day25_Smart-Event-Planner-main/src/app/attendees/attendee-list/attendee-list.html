@@ -1,0 +1,21 @@
+<h2 style="text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #2e7d32;">Registered Attendees</h2>
+<ul style="list-style: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;">
+  <li *ngFor="let a of attendees" style="background: #f9f9f9;
+  margin: 10px 0;
+  padding: 15px 20px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #e0e0e0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    {{ a.name }} - {{ a.email }}
+  </li>
+</ul>

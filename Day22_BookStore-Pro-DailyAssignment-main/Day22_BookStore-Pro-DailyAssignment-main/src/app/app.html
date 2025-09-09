@@ -1,0 +1,6 @@
+<h1>{{title()}}</h1>
+
+<button (click)="showBooks = !showBooks">
+    Toggle BooksComponent
+</button>
+<app-book *ngIf="showBooks"></app-book>

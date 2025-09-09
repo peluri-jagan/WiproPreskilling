@@ -1,0 +1,8 @@
+<h2 class="form-title">Create New Event</h2>
+
+<form [formGroup]="eventForm" (ngSubmit)="onSubmit()" class="create-event-form">
+  <input formControlName="title" placeholder="Title" />
+  <input type="date" formControlName="date" />
+  <input type="number" formControlName="maxAttendees" placeholder="Max Attendees" />
+  <button type="submit" [disabled]="eventForm.invalid">Create</button>
+</form>

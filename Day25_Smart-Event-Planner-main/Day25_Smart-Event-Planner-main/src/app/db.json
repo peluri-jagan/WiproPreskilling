@@ -1,0 +1,35 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Angular Workshop",
+      "date": "2025-08-20",
+      "maxAttendees": 100
+    },
+    {
+      "id": "2",
+      "title": "Cloud Summit",
+      "date": "2025-09-01",
+      "maxAttendees": 200
+    },
+    {
+      "id": "bb04",
+      "title": "Fund Raiser Workshop",
+      "date": "2025-09-10",
+      "maxAttendees": 1000
+    }
+  ],
+  "attendees": [
+    {
+      "id": "1",
+      "name": "Ayush",
+      "email": "ayush@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Nandani",
+      "email": "nans@gmail.com",
+      "eventId": "1"
+    }
+  ]
+}

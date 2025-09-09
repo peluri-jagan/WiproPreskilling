@@ -1,0 +1,12 @@
+.books-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+h2 {
+  color: #34495e;
+  font-size: 1.3rem;
+  margin-bottom: 12px;
+}

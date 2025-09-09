@@ -1,0 +1,1 @@
+This is a sample text file used in static demo using .Net Core web app

@@ -1,0 +1,10 @@
+<h2>Upcoming Events</h2>
+
+<div class="events-container">
+  <div *ngFor="let e of events" class="event-card">
+    <h3>{{ e.title | uppercase }}</h3>
+    <p><strong>Date:</strong> {{ e.date | date }}</p>
+    <p><strong>Max Attendees:</strong> {{ e.maxAttendees }}</p>
+    <a [routerLink]="['/events', e.id]" class="details-link">View Details</a>
+  </div>
+</div>

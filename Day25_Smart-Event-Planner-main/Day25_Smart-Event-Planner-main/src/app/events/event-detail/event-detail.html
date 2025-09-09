@@ -1,0 +1,22 @@
+<div class="event-detail-card">
+    <h2>{{ event?.title }}</h2>
+    <p><strong>Date:</strong> {{ event?.date | date }}</p>
+    <p><strong>Max Attendees:</strong> {{ event?.maxAttendees }}</p>
+
+    <!-- Register Form -->
+    <form #regForm="ngForm" (ngSubmit)="register(regForm.value)" class="register-form" novalidate>
+
+        <input type="text" name="name" ngModel required placeholder="Enter your name" #name="ngModel" />
+        <div class="error" *ngIf="name.invalid && (name.dirty || name.touched)">
+            Name is required.
+        </div>
+
+        <input type="email" name="email" ngModel required email placeholder="Enter your email" #email="ngModel" />
+        <div class="error" *ngIf="email.invalid && (email.dirty || email.touched)">
+            <span *ngIf="email.errors?.['required']">Email is required.</span>
+            <span *ngIf="email.errors?.['email']">Enter a valid email.</span>
+        </div>
+
+        <button type="submit" [disabled]="regForm.invalid">Register</button>
+    </form>
+</div>

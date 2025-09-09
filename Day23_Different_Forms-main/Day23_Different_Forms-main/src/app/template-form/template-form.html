@@ -1,0 +1,16 @@
+<h2>Template-Driven Form</h2>
+
+<form #formRef="ngForm" (ngSubmit)="onSubmit(formRef)" novalidate>
+  <label>
+    Username
+    <input name="username" ngModel required minlength="3" #username="ngModel" placeholder="e.g. Ayush" />
+  </label>
+
+  <!-- Show errors if user touched input and it's invalid -->
+  <div *ngIf="username.touched && username.invalid" style="color:#c00">
+    <div *ngIf="username.errors?.['required']">Username is required.</div>
+    <div *ngIf="username.errors?.['minlength']">Min length is 3.</div>
+  </div>
+
+  <button type="submit" [disabled]="formRef.invalid">Submit</button>
+</form>

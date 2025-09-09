@@ -1,0 +1,52 @@
+/* General app layout */
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #4a148c; /* deep purple */
+  margin-bottom: 1rem;
+}
+
+/* Navigation styles */
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: linear-gradient(90deg, #7b1fa2, #512da8);
+  padding: 12px 0;
+  border-radius: 8px;
+}
+
+nav a {
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+nav a.active {
+  background: #fff;
+  color: #4a148c;
+  font-weight: bold;
+}
+
+/* Divider */
+hr {
+  margin: 20px 0;
+  border: none;
+  border-top: 2px solid #e0e0e0;
+}
+
+/* Page content */
+:host {
+  display: block;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  min-height: 100vh;
+}
