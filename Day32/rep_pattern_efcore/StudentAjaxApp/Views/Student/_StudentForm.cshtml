@@ -1,0 +1,9 @@
+@model StudentAjaxApp.Models.Student
+
+<form id="studentForm">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <input type="text" name="Name" value="@Model.Name" placeholder="Name" />
+    <input type="email" name="Email" value="@Model.Email" placeholder="Email" />
+    <input type="text" name="Course" value="@Model.Course" placeholder="Course" />
+    <button type="button" onclick="submitForm()">Save</button>
+</form>

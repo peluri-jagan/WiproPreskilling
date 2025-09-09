@@ -1,0 +1,193 @@
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\appsettings.json
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.staticwebassets.runtime.json
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.staticwebassets.endpoints.json
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.exe
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.deps.json
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.runtimeconfig.json
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.dll
+C:\Day_26\UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.pdb
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.AssemblyInfoInputs.cache
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.AssemblyInfo.cs
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.RazorAssemblyInfo.cache
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.RazorAssemblyInfo.cs
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.sourcelink.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\scopedcss\bundle\UserRegistrationApp.styles.css
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\scopedcss\projectbundle\UserRegistrationApp.bundle.scp.css
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\l1tcs01mio-b9sayid5wm.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\mx3c0ecxc4-61n19gt1b8.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\wxnn4fw6t7-xtxxf3hu2r.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\984hwdyiwv-bqjiyaj88i.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\vpc0zys7s8-c2jlpeoesf.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\mm6f3wab3t-erw9l3u2r3.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\5wbpjwxirr-aexeepp0ev.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\fp0nwzbdyz-d7shbmvgxk.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\68adyc5isq-ausgxo2sd3.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\3y3h5yfphr-k8d9w2qqmf.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\ev8zmfuv8f-cosvhxvwiu.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\9athegllyz-ub07r2b239.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\6cbzmyqm0o-fvhpjtyr6v.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\ppn7pin5d5-b7pk76d08c.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\2ok364r49b-fsbi9cje9m.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\tsne3a1mom-rzd6atqjts.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\tznsr9n2g3-ee0r1s7dh0.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\6rcbrbcf6z-dxx9fxp4il.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\e1zs44qw5q-jd9uben2k1.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\liw84auq9b-khv3u5hwcm.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\a3s2an6uxh-r4e9w2rdcm.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\6zj2itmewn-lcd1t2u6c8.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\7vngq8j4pg-c2oey78nd0.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\m3whb7zrke-tdbxkamptv.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\ono4vo7bcx-j5mq2jizvt.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\khntki2ayz-06098lyss8.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\5o47fembme-nvvlpmu67g.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\v0i78z7nb4-s35ty4nyc5.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\qbz5sa7y59-pj5nd1wqec.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\58msmia3fw-46ein0sx1k.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\icxf03aqdg-v0zj4ognzu.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\qcdyj6aex9-37tfw0ft22.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\vvr9dafmvf-hrwsygsryq.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\sr0vfyllgu-pk9g2wxc8p.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\11m2tpzhol-ft3s53vfgj.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\2rppscx557-6cfz1n2cew.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\va8o3fj6er-6pdc2jztkx.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\njmvs8te08-493y06b0oq.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\dz61mkjrxq-iovd86k7lj.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\cbjnele66n-vr1egmr9el.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\oap5p8qwz7-kbrnm935zg.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\vjls6xphdk-jj8uyg4cgr.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\dvfgby2ej1-y7v9cxd14o.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\1ezo2c0r3j-notf2xhcfb.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\przz0518ra-h1s4sie4z3.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\8d58rfrtnn-63fj8s7r0e.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\3eugxh4yi8-0j3bgjxly4.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\tquu91m6bp-47otxtyo56.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\zjsb5qqkav-4v8eqarkd7.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\mvj0s9rjnn-356vix0kms.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\55xt4esp0r-83jwlth58m.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\we37pzs0gl-mrlpezrjn3.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\bnj0eezon7-lzl9nlhx6b.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\zvk4hil2nf-ag7o75518u.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\ljq3a1390d-x0q3zqp4vz.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\t8b6evuasj-0i3buxo5is.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\8m8odvrxqv-o1o13a6vjx.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\7fiy47sw1s-ttgo8qnofa.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\8ogmttiy8d-2z0ns9nrw6.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\jz0qlxsgr1-muycvpuwrr.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\3ue1wdwgyp-87fc7y1x7t.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\rvfeh8m9r4-mlv21k5csn.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\qdcv6qvfvp-r6z8o8gzuh.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\compressed\ebxgz6alr6-r6z8o8gzuh.gz
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.dll
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\refint\UserRegistrationApp.dll
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.pdb
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.genruntimeconfig.cache
+C:\Day_26\UserRegistrationApp\obj\Debug\net9.0\ref\UserRegistrationApp.dll
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\appsettings.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.staticwebassets.runtime.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.staticwebassets.endpoints.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.exe
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.deps.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.runtimeconfig.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.dll
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\bin\Debug\net9.0\UserRegistrationApp.pdb
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.AssemblyInfoInputs.cache
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.AssemblyInfo.cs
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.csproj.CoreCompileInputs.cache
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.RazorAssemblyInfo.cache
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.RazorAssemblyInfo.cs
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\scopedcss\bundle\UserRegistrationApp.styles.css
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\scopedcss\projectbundle\UserRegistrationApp.bundle.scp.css
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\l1tcs01mio-b9sayid5wm.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\mx3c0ecxc4-61n19gt1b8.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\wxnn4fw6t7-xtxxf3hu2r.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\984hwdyiwv-bqjiyaj88i.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\vpc0zys7s8-c2jlpeoesf.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\mm6f3wab3t-erw9l3u2r3.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\5wbpjwxirr-aexeepp0ev.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\fp0nwzbdyz-d7shbmvgxk.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\68adyc5isq-ausgxo2sd3.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\3y3h5yfphr-k8d9w2qqmf.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\ev8zmfuv8f-cosvhxvwiu.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\9athegllyz-ub07r2b239.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\6cbzmyqm0o-fvhpjtyr6v.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\ppn7pin5d5-b7pk76d08c.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\2ok364r49b-fsbi9cje9m.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\tsne3a1mom-rzd6atqjts.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\tznsr9n2g3-ee0r1s7dh0.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\6rcbrbcf6z-dxx9fxp4il.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\e1zs44qw5q-jd9uben2k1.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\liw84auq9b-khv3u5hwcm.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\a3s2an6uxh-r4e9w2rdcm.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\6zj2itmewn-lcd1t2u6c8.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\7vngq8j4pg-c2oey78nd0.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\m3whb7zrke-tdbxkamptv.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\ono4vo7bcx-j5mq2jizvt.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\khntki2ayz-06098lyss8.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\5o47fembme-nvvlpmu67g.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\v0i78z7nb4-s35ty4nyc5.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\qbz5sa7y59-pj5nd1wqec.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\58msmia3fw-46ein0sx1k.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\icxf03aqdg-v0zj4ognzu.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\qcdyj6aex9-37tfw0ft22.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\vvr9dafmvf-hrwsygsryq.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\sr0vfyllgu-pk9g2wxc8p.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\11m2tpzhol-ft3s53vfgj.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\2rppscx557-6cfz1n2cew.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\va8o3fj6er-6pdc2jztkx.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\njmvs8te08-493y06b0oq.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\dz61mkjrxq-iovd86k7lj.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\cbjnele66n-vr1egmr9el.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\oap5p8qwz7-kbrnm935zg.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\vjls6xphdk-jj8uyg4cgr.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\dvfgby2ej1-y7v9cxd14o.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\1ezo2c0r3j-notf2xhcfb.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\przz0518ra-h1s4sie4z3.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\8d58rfrtnn-63fj8s7r0e.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\3eugxh4yi8-0j3bgjxly4.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\tquu91m6bp-47otxtyo56.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\zjsb5qqkav-4v8eqarkd7.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\mvj0s9rjnn-356vix0kms.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\55xt4esp0r-83jwlth58m.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\we37pzs0gl-mrlpezrjn3.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\bnj0eezon7-lzl9nlhx6b.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\zvk4hil2nf-ag7o75518u.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\ljq3a1390d-x0q3zqp4vz.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\t8b6evuasj-0i3buxo5is.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\8m8odvrxqv-o1o13a6vjx.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\7fiy47sw1s-ttgo8qnofa.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\8ogmttiy8d-2z0ns9nrw6.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\jz0qlxsgr1-muycvpuwrr.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\3ue1wdwgyp-87fc7y1x7t.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\rvfeh8m9r4-mlv21k5csn.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\qdcv6qvfvp-r6z8o8gzuh.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\compressed\ebxgz6alr6-r6z8o8gzuh.gz
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.dll
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\refint\UserRegistrationApp.dll
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.pdb
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\UserRegistrationApp.genruntimeconfig.cache
+D:\Wipro .NET with React\Week 4(.NET Core)\Day28\Day28_Assignment_UserRegistrationApp\obj\Debug\net9.0\ref\UserRegistrationApp.dll

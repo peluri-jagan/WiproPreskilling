@@ -1,0 +1,35 @@
+<h2>Student Info</h2>
+<button onclick="showCreateForm()">Add Student</button>
+<div id="formContainer"></div>
+<div id="studentList"></div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function loadStudents() {
+            $.get("/Student/GetAll", function(data) {
+                $("#studentList").html(data);
+            });
+        }
+
+        function showCreateForm() {
+            $.get("/Student/Create", function(data) {
+                $("#formContainer").html(data);
+            });
+        }
+
+        function submitForm() {
+            var formData = $("#studentForm").serialize();
+            $.post("/Student/Create", formData, function(response) {
+                if (response.success) {
+                    loadStudents();
+                    $("#formContainer").html("");
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            loadStudents();
+        });
+    </script>
+}

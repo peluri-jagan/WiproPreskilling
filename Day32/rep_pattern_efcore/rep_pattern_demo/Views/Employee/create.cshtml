@@ -1,0 +1,49 @@
+@model rep_pattern_demo.Models.Employee
+
+<h2>Add Employee</h2>
+
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <div>
+        <label asp-for="EmployeeName"></label>
+        <input asp-for="EmployeeName" />
+        <span asp-validation-for="EmployeeName"></span>
+    </div>
+
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" />
+        <span asp-validation-for="Address"></span>
+    </div>
+
+    <div>
+        <label asp-for="EmailId"></label>
+        <input asp-for="EmailId" />
+        <span asp-validation-for="EmailId"></span>
+    </div>
+
+    <div>
+        <label asp-for="PhoneNumber"></label>
+        <input asp-for="PhoneNumber" />
+        <span asp-validation-for="PhoneNumber"></span>
+    </div>
+
+    <div>
+        <label asp-for="DateOfJoining"></label>
+        <input asp-for="DateOfJoining" type="date" />
+        <span asp-validation-for="DateOfJoining"></span>
+    </div>
+
+    <div>
+        <label asp-for="Salary"></label>
+        <input asp-for="Salary" />
+        <span asp-validation-for="Salary"></span>
+    </div>
+
+    <button type="submit">Save</button>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

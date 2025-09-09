@@ -1,0 +1,39 @@
+@model IEnumerable<rep_pattern_demo.Models.Employee>
+
+<h2>Employee List</h2>
+
+<p>
+    <a asp-action="Create">➕ Add New Employee</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Employee Name</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Date of Joining</th>
+            <th>Salary</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.EmployeeName</td>
+                <td>@emp.Address</td>
+                <td>@emp.EmailId</td>
+                <td>@emp.PhoneNumber</td>
+                <td>@emp.DateOfJoining.ToShortDateString()</td>
+                <td>₹@emp.Salary</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@emp.EmployeeId">✏️ Edit</a> |
+                    <a asp-action="Details" asp-route-id="@emp.EmployeeId">🔍 Details</a> |
+                    <a asp-action="Delete" asp-route-id="@emp.EmployeeId">🗑 Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

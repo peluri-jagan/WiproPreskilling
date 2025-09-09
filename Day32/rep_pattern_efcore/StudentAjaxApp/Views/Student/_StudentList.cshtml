@@ -1,0 +1,16 @@
+@model List<StudentAjaxApp.Models.Student>
+
+<table>
+    <tr><th>Name</th><th>Email</th><th>Course</th><th>Actions</th></tr>
+@foreach (var s in Model) {
+    <tr>
+        <td>@s.Name</td>
+        <td>@s.Email</td>
+        <td>@s.Course</td>
+        <td>
+            <button onclick="editStudent(@s.Id)">Edit</button>
+            <button onclick="deleteStudent(@s.Id)">Delete</button>
+        </td>
+    </tr>
+}
+</table>

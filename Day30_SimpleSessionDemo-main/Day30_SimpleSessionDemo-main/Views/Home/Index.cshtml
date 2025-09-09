@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Session Management Demo</h1>
+<div style="text-align: center;">
+    <h2>Visit Count: @Model</h2>
+    <h3>It shows how many times you have visited this page.</h3>
+    <form asp-action="ClearSession" method="post">
+        <a href="@Url.Action("Index")" class="btn btn-secondary">Go to Home</a>
+        <a href="@Url.Action("Privacy")" class="btn btn-secondary">Go to Privacy</a>
+        <button type="submit" class="btn btn-primary">Clear Session</button>
+    </form>
+
+    <div>
+        <p>Session data can be useful for tracking user behavior with following steps.</p>
+        <ol>
+            <li>Click "Refresh Page" - counter increases</li>
+            <li>Open same URL in new browser tab - counter continues</li>
+            <li>Open in Incognito/Private window - counter resets (new session)</li>
+            <li>Wait 5 minutes - session expires, counter resets</li>
+        </ol>
+    </div>
+</div>
